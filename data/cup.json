@@ -1,0 +1,140 @@
+[
+    {   
+        "year": 1930,
+        "hosts":"Pais sede: Uruguai",       
+        "champion":"Campeão: Uruguai"
+        
+    },
+    {   
+        "year": 1934,
+        "hosts":"Pais sede: Italia" ,      
+        "champion":"Campeão: Italia"
+        
+    },
+    {   
+        "year": 1938,
+        "hosts":"Pais sede: Italia",     
+        "champion":"Campeão: France"
+        
+    },
+    {   
+        "year": 1942,
+        "hosts":"Pais sede: *",       
+        "champion":"Campeão: * Evendo cancelado devido 2ª Guerra mundial"
+        
+    },
+    {   
+        "year": 1946,
+        "hosts":"Pais sede: *",      
+        "champion":"Campeão: * Evendo cancelado devido 2ª Guerra mundial"
+        
+    },
+    {   
+        "year": 1950,
+        "hosts":"Pais sede: Uruguai",       
+        "champion":"Campeão: Brasil"
+        
+    },
+    {   
+        "year": 1954,
+        "hosts":"Pais sede: Suiça",       
+        "champion":"Campeão: Alemanha ocidental"
+        
+    },
+    {   
+        "year": 1958,
+        "hosts":"Pais sede: Suécia",       
+        "champion":"Campeão: Brasil"
+        
+    },
+    {   
+        "year": 1962,
+        "hosts":"Pais sede: Chile",       
+        "champion":"Campeão: Brasil"
+        
+    },
+    {   
+        "year": 1966,
+        "hosts":"Pais sede: Inglaterra",       
+        "champion":"Campeão: Inglarerra"
+        
+    },
+    {   
+        "year": 1970,
+        "hosts":"Pais sede: México",       
+        "champion":"Campeão: Brasil"
+        
+    },
+    {   
+        "year": 1974,
+        "hosts":"Pais sede: Alemanha ocidental",       
+        "champion":"Campeão: Alemanha ocidental"
+        
+    },
+    {   
+        "year": 1978,
+        "hosts":"Pais sede: Argentina",       
+        "champion":"Campeão: Argentina"
+        
+    },
+    {   
+        "year": 1982,
+        "hosts":"Pais sede: Espanha",       
+        "champion":"Campeão: Italia"
+        
+    },
+    {   
+        "year": 1986,
+        "hosts":"Pais sede: México",       
+        "champion":"Campeão: Argentina"
+        
+    },
+    {   
+        "year": 1990,
+        "hosts":"Pais sede: Italia",       
+        "champion":"Campeão: Alemanha ocidental"
+        
+    },
+    {   
+        "year": 1994,
+        "hosts":"Pais sede: Estados Unidos",       
+        "champion":"Campeão: Brasil"
+        
+    },
+    {   
+        "year": 1998,
+        "hosts":"Pais sede: France",       
+        "champion":"Campeão: France"
+        
+    },
+    {   
+        "year": 2002,
+        "hosts":"Pais sede: Japão e Coreia do Sul",       
+        "champion":"Campeão: Brasil"
+        
+    },
+    {   
+        "year": 2006,
+        "hosts":"Pais sede: Alemanha",       
+        "champion":"Campeão: Italia"
+        
+    },
+    {   
+        "year": 2010,
+        "hosts":"Pais sede: Africa do sul",       
+        "champion":"Campeão: Espanha"
+        
+    },
+    {   
+        "year": 2014,
+        "hosts":"Pais sede: Brasil",       
+        "champion":"Campeão: Alemanha"
+        
+    },
+    {   
+        "year": 2018,
+        "hosts":"Pais sede: Russia",       
+        "champion":"Campeão: França"
+        
+    }
+]
